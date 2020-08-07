@@ -1,0 +1,59 @@
+{
+    "projects":[
+        {
+            "id":"0",
+            "project_name":"Random Quote Generator",
+            "description": "This project displays random famous quotes each time a button is clicked",
+            "technologies": ["HMTL", "CSS", "JS"],
+            "live_link": "https://justinhartzog.github.io/Techdegree-Project-1/",
+            "github_link": "https://github.com/JustinHartzog/Techdegree-Project-1",
+            "image_urls": ["/static/images/pro1.0.jpg", "/static/images/pro1.1.jpg", "/static/images/pro1.2.jpg"]
+        },
+        {
+            "id":"1",
+            "project_name":"List Pagination and Filtering",
+            "description": "Enhanced the usability of a web page that is displaying way too much information all at once by using pagination",
+            "technologies": ["JS", "CSS", "HTML"],
+            "live_link": "https://justinhartzog.github.io/Techdegree-Project-2/",
+            "github_link": "https://github.com/JustinHartzog/Techdegree-Project-2",
+            "image_urls": ["/static/images/pro2.0.jpg", "/static/images/pro2.1.jpg", "/static/images/pro2.2.jpg"]
+        },
+        {
+            "id":"2",
+            "project_name":"Interactive Form",
+            "description": "An excellent example of a common form found in a website. The form shows an example of the different type of inputs used commonly (text inputs, radio buttons, text areas, etc.)",
+            "technologies": ["Jquery", "CSS", "HMTL"],
+            "live_link": "https://justinhartzog.github.io/Techdegree-Project-3/",
+            "github_link": "https://github.com/JustinHartzog/Techdegree-Project-3",
+            "image_urls": ["/static/images/pro3.0.jpg", "/static/images/pro3.1.jpg","/static/images/pro3.2.jpg"]
+        },
+        {
+            "id":"3",
+            "project_name":"Phrase Hunter",
+            "description": "Fun game where you need to guess the hidden phrase, after 5 wrong attemps the game ends. Project built entirely with HTML CSS and JS.",
+            "technologies": ["HMTL", "CSS", "JS"],
+            "live_link": "https://justinhartzog.github.io/Techdegree-Project-4/",
+            "github_link": "https://github.com/JustinHartzog/Techdegree-Project-4",
+            "image_urls": ["/static/images/pro4.0.jpg", "/static/images/pro4.1.jpg", "/static/images/pro4.2.jpg"]
+        },
+        {
+            "id":"4",
+            "project_name":"Employee Directory",
+            "description": "Communication with 'Random user' API via promise based Fetch. Focus in Object-oriented programming. Coded custom responsive modal window using CSS and JS.",
+            "technologies": ["Fetch API", "JS", "CSS", "HTML"],
+            "live_link": "https://justinhartzog.github.io/Techdegree-Project-5/",
+            "github_link": "https://github.com/JustinHartzog/Techdegree-Project-5",
+            "image_urls": ["/static/images/pro5.0.jpg", "/static/images/pro5.1.jpg", "/static/images/pro5.2.jpg"]
+        },
+        {
+            "id":"5",
+            "project_name":"React Gallery App",
+            "description": "React app that pulls images from the Flickr API and loads them to the page with 3 preset search buttons and an included search bar for looking up images",
+            "technologies": ["React", "Fetch API", "JS", "CSS", "HTML"],
+            "live_link": "https://justinhartzog.github.io/Techdegree-Project-7/",
+            "github_link": "https://github.com/JustinHartzog/Techdegree-Project-7",
+            "image_urls": ["/static/images/pro6.0.jpg", "/static/images/pro6.1.jpg", "/static/images/pro6.2.jpg"]
+        }
+
+    ]
+}
