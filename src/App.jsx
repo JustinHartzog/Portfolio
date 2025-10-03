@@ -89,7 +89,7 @@ export default function Portfolio() {
     },
     {
       title: 'Lucky Unders Mobile Game',
-      description: 'Real-time social networking platform with instant messaging, post feeds, and content discovery algorithms.',
+      description: 'A little card game that I\'m working on using Godot. Not quite finished yet but it will include multiplayer gameplay.',
       tech: ['Godot', 'GDScript'],
       image: luckyundersImage
     }
