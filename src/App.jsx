@@ -80,8 +80,8 @@ export default function Portfolio() {
       image: giftyImage
     },
     {
-      title: 'Blog website',
-      description: 'Interactive data visualization dashboard with AI-powered insights and predictive analytics for business intelligence.',
+      title: 'Blog Website',
+      description: 'A simple blog website challenge to practice HTML, CSS, and JavaScript skills as well as practice responsive layout techniques.',
       tech: ['HTML', 'CSS', 'Javascript'],
       image: blogImage,
       liveUrl: 'https://justinhartzog.github.io/Blog/',
